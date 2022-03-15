@@ -141,6 +141,7 @@ def help(client, message):
     message.reply_text("""
 
    Bot Exclusivo  Compre o Seu @anticongelante 🇺🇦
+   🔝
 
     """)
 
